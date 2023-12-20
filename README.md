@@ -1,26 +1,21 @@
-Instrucciones de Implementación
+# Reto Dad Jokes
 
-Bienvenidos al reto Dad Jokes, para cumplirlo deberás seguir lo siguiente:
+Este proyecto es una aplicación web que muestra "Dad Jokes". Se ha completado siguiendo las instrucciones proporcionadas, incluyendo la visualización de un video explicativo, la utilización de recursos proporcionados (HTML, CSS básico y JS), y la finalización del CSS y JS para que la aplicación funcione correctamente.
 
-1. Ver el video de explicación de reto.
+## Detalles Técnicos
 
-2. Tienes los siguientes recursos: Entregamos el HTML con las clases correspondientes, css básico y js con la estructura que debes seguir*
-   
-   * En este caso te damos una estructura guía donde debes encontrar las variables e identificadores necesarios en cada caso.
+- CSS: Se han nombrado las clases según las necesidades del proyecto.
+- JS: Se han seguido las pistas proporcionadas en el archivo.
 
-3. Deberás completar el css y el js para que el reto funcione.
+Este proyecto es un ejercicio de clase del Bootcamp y sirve como una demostración de habilidades de desarrollo web.
 
-Resultado: El reto debe ser igual al que visualizas en el video (puedes cambiar colores e imagenes), debes crear un buen .body para que sea como el del video.
+## Guía de instalación
+Puedes instalarte fácilmente este proyecto, clonando este repositorio: https://github.com/HelenaDR84/API-N1-Dad-Jokes
+ en Visual Studio Code
 
+## 🛠️Herramientas
 
-¡HINTS!
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,vscode)](https://skillicons.dev)
 
-CSS
-
- - Debes nombrar las clases
-
-
-JS
-
- - Las pistas están en el archivo
- - Revisa la documentación de ASYNC AWAIT
+##  👩‍💻Autora
+- [@Helena](https://github.com/HelenaDR84)
