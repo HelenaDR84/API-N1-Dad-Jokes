@@ -13,7 +13,7 @@ Este proyecto es un ejercicio de clase del Bootcamp y sirve como una demostraci�
 Puedes instalarte fácilmente este proyecto, clonando este repositorio: https://github.com/HelenaDR84/API-N1-Dad-Jokes
  en Visual Studio Code
 
-## 🛠️Herramientas
+## 🛠️Herramientas y tecnologías
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,vscode)](https://skillicons.dev)
 
